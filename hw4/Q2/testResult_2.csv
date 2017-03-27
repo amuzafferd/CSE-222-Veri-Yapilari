@@ -1,0 +1,40 @@
+**************** Reverse() ****************
+Size 1: 7 Queue 1: 7 6 5 4 3 2 1 
+Size 2: 7 Queue 2: 7 6 5 4 3 2 1 
+Size 3: 7 Queue 3: 7 6 5 4 3 2 1 
+Size 4: 7 Queue 4: 7 6 5 4 3 2 1 
+************** reverseQueue() **************
+Size 5: 7 Queue 5: [7, 6, 5, 4, 3, 2, 1]
+Size 6: 7 Queue 6: [7, 6, 5, 4, 3, 2, 1]
+Size 7: 7 Queue 7: [7, 6, 5, 4, 3, 2, 1]
+Size 8: 7 Queue 8: [7, 6, 5, 4, 3, 2, 1]
+**************** Reverse() ****************
+Size 1: 5 Queue 1: 4.0 6.7 4.5 2.3 1.2 
+Size 2: 5 Queue 2: 4.0 6.7 4.5 2.3 1.2 
+Size 3: 5 Queue 3: 4.0 6.7 4.5 2.3 1.2 
+Size 4: 5 Queue 4: 4.0 6.7 4.5 2.3 1.2 
+************** reverseQueue() **************
+Size 5: 5 Queue 5: [4.0, 6.7, 4.5, 2.3, 1.2]
+Size 6: 5 Queue 6: [4.0, 6.7, 4.5, 2.3, 1.2]
+Size 7: 5 Queue 7: [4.0, 6.7, 4.5, 2.3, 1.2]
+Size 8: 5 Queue 8: [4.0, 6.7, 4.5, 2.3, 1.2]
+**************** Reverse() ****************
+Size 1: 7 Queue 1: f d t j h g a 
+Size 2: 7 Queue 2: f d t j h g a 
+Size 3: 7 Queue 3: f d t j h g a 
+Size 4: 7 Queue 4: f d t j h g a 
+************** reverseQueue() **************
+Size 5: 7 Queue 5: [f, d, t, j, h, g, a]
+Size 6: 7 Queue 6: [f, d, t, j, h, g, a]
+Size 7: 7 Queue 7: [f, d, t, j, h, g, a]
+Size 8: 7 Queue 8: [f, d, t, j, h, g, a]
+**************** Reverse() ****************
+Size 1: 3 Queue 1: defter kalem kitap 
+Size 2: 3 Queue 2: defter kalem kitap 
+Size 3: 3 Queue 3: defter kalem kitap 
+Size 4: 3 Queue 4: defter kalem kitap 
+************** reverseQueue() **************
+Size 5: 3 Queue 5: [defter, kalem, kitap]
+Size 6: 3 Queue 6: [defter, kalem, kitap]
+Size 7: 3 Queue 7: [defter, kalem, kitap]
+Size 8: 3 Queue 8: [defter, kalem, kitap]
